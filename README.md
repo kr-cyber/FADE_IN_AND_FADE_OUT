@@ -12,4 +12,4 @@ TO GET REQUIRED OUTPUT CONNECT LED TO ONLY THOSE PINS
 5. jumper wires
 
 
-# have fun guys 🤪🤪🤪
+# Have Fun Guys 🤪🤪🤪
